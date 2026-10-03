@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of avatar4eg/flarum-ext-users-list.** Not for installation: use [Packagist](https://packagist.org/packages/avatar4eg/flarum-ext-users-list) or the [upstream repository](https://github.com/Avatar4eg/flarum-ext-users-list).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/avatar4eg-flarum-ext-users-list/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/avatar4eg-flarum-ext-users-list/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-08-18 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/avatar4eg-flarum-ext-users-list/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-09-16 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/avatar4eg-flarum-ext-users-list/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/avatar4eg-flarum-ext-users-list.json](https://github.com/flarchive/archive-index/blob/main/packages/avatar4eg-flarum-ext-users-list.json)
 
